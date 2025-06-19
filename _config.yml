@@ -22,8 +22,8 @@ repository               : "sevati.github.io/shuangbingsong/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/shuangbingsong.png"
-  name             : "Shuangbing Song (宋双兵)"
+  avatar           : "shuangbingsong.png"
+  name             : "Shuangbing Song"
   pronouns         : "she/her"  
   bio              : "Postdoctoral Researcher"
   location         : "Qingdao, China"
