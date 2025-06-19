@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a postdoctoral researcher at [Institute of Frontier and Interdisciplinary Science](https://frontier.qd.sdu.edu.cn/), Shandong University under the supervision of [Prof. Xingtao Huang](https://frontier.qd.sdu.edu.cn/info/1048/1331.htm). Before joining Institute of Frontier and Interdisciplinary Science, Shandong University, I obtained Ph.D. in Computer Vision from [School of Computer Science and Technology](https://www.cs.sdu.edu.cn/), Shandong University under the supervision of [Prof. Changhe Tu](https://irc.cs.sdu.edu.cn/~chtu/index.html).
 
-[Email](songs@sdu.edu.cn) / [Google Scholar](https://scholar.google.com/citations?user=0WGbVnwAAAAJ&hl=en) / [ORCID](https://orcid.org/0000-0002-1031-6151) / [WeChat](../images/wechat.jpg)
+[Email](songs@sdu.edu.cn) / [Google Scholar](https://scholar.google.com/citations?user=0WGbVnwAAAAJ&hl=en) / [ORCID](https://orcid.org/0000-0002-1031-6151) / [WeChat](wechat.png)
 
 Education Experience
 ======
